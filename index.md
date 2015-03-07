@@ -4,6 +4,10 @@ layout: default
 
 {% include carousel.html %}
 
+####Sandown Bay Resource Capital is a specialist mining private equity firm. 
+
+We invest in mining companies globally and work with them to <strong>transform</strong> and <strong>build</strong> strong and sustainable businesses.
+
 Sandown Bay was founded by senior mining industry professionals with decades of experience working with 
 the world’s largest mining companies. Our team has a long history of acquiring, developing and operating 
 mining assets globally and creating value for all stakeholders. 
