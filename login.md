@@ -3,7 +3,7 @@ permalink: /login/
 layout: default
 ---
 
-![open pit mining](/images/mine_4.jpg)
+<img src="{{ site.baseurl }}/images/mine_4.jpg" class="u-max-full-width"/>
 
 <div class="row login">
   <div class="columns six offset-by-three">

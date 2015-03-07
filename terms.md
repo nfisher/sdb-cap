@@ -3,7 +3,7 @@ permalink: /terms/
 layout: default
 ---
 
-<img src="/images/mine_4.jpg" class="u-max-full-width"/>
+<img src="{{ site.baseurl }}/images/mine_4.jpg" class="u-max-full-width"/>
 
 # Terms of Use
 
