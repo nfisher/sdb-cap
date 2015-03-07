@@ -1,8 +1,8 @@
 "use strict";  
 var carousel = document.getElementById('carousel');
-var transition = 150;
+var transition = 105;
 var frameCounter = transition; // start the frameCounter on the solid state
-var solid = 200;
+var solid = 120;
 var totalFrames = transition + solid
 var m =  1.0 / transition;
 

@@ -25,52 +25,65 @@ nav {
 nav>div>ul>li,
 footer>div>ul>li {
   float:left;
+  height:1.5rem;
   list-style:none;
 }
 nav>div>ul>li {
-  padding-top:0.875em;
+  padding-top:0.2rem;
 }
-nav>div>ul>li>a {
-  padding-right:2rem;
+nav a {
+  padding-right:1rem;
   text-decoration:none;
 }
 footer>div>ul>li>a {
-  padding-left:1em;
+  padding-left:1rem;
 }
-.abs {
+.content .row:last-child {
+  margin-bottom:4rem;
+}
+#carousel>div>img {
+  position:static;
+}
+#carousel>div>img:first-child {
   position:absolute;
 }
-.section {
-  min-height:42em;
-}
 #carousel {
+  position:relative; /* this is needed so the absolute positioned image doesn't go wonky. */
   margin-bottom:2rem;
 }
-#carousel div {
-  background-color:white;
-  opacity:0.8;
-  z-index:1000;
+h1 {
+  font-size:2rem;
 }
-nav>div {
-  clear:both;
-}
-h4 {
-color:#000080;
+h1,h4 {
+  color:#000080;
 }
 a {
-color:#6666b2;
+  color:#6666b2;
 }
-@media (min-width: 750px) {
-  #carousel div {
-    margin-left:10%;
-    padding:2rem 3rem 0;
-    position:absolute;
-    width:23%;
+.vcard {
+  margin-bottom:2.5rem;
+}
+@media (min-width: 400px) {
+  nav a {
+    margin-right:1.5rem;
   }
-  nav h4 {
+}
+@media (min-width: 550px) {
+  nav.row .columns:first-child {
+    margin-bottom:1.5rem;
+  }
+  nav.row .columns h1 {
+    font-size:2rem;
+  }
+}
+@media (max-width: 768px) {
+  nav.row .columns {
+    width:100%;
+    margin-left:0;
+  }
+}
+@media (min-width: 769px) {
+  nav.row .columns h1 {
     text-align:right;
-  }
-  nav>div {
-    clear:none;
   }
 }

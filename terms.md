@@ -5,7 +5,7 @@ layout: default
 
 <img src="{{ site.baseurl }}/images/mine_4.jpg" class="u-max-full-width"/>
 
-# Terms of Use
+##Terms of Use
 
 SANDOWN BAY RESOURCE CAPITAL PARTNERS LLP – WEBSITE TERMS OF USE
 

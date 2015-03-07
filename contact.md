@@ -8,8 +8,7 @@ permalink: /contact/
 
 <div class="row">
   <div class="columns five">
-    <h2>Contact Us</h2>
-
+    <h2>Contact</h2>
     <div class="vcard">
       <div class="adr">
         <div class="org">Sandown Bay Resource Capital Partners LLP</div>
