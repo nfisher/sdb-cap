@@ -1,0 +1,70 @@
+---
+# Only the main Sass file needs front matter (the dashes are enough)
+---
+@charset "utf-8";
+
+
+
+// Import partials from `sass_dir` (defaults to `_sass`)
+@import
+        "normalize",
+        "skeleton"
+;
+
+footer>div>ul {
+  float:right;
+  margin:0;
+  padding:0;
+}
+footer {
+  margin-top:2rem;
+}
+nav {
+  margin-top:2rem;
+}
+nav>div>ul>li,
+footer>div>ul>li {
+  float:left;
+  list-style:none;
+}
+nav>div>ul>li {
+  padding-top:0.875em;
+}
+nav>div>ul>li>a {
+  padding-right:2rem;
+  text-decoration:none;
+}
+footer>div>ul>li>a {
+  padding-left:1em;
+}
+.abs {
+  position:absolute;
+}
+.section {
+  min-height:42em;
+}
+#carousel {
+  margin-bottom:2rem;
+}
+#carousel div {
+  background-color:white;
+  opacity:0.8;
+  z-index:1000;
+}
+nav>div {
+  clear:both;
+}
+@media (min-width: 750px) {
+  #carousel div {
+    margin-left:10%;
+    padding:2rem 3rem 0;
+    position:absolute;
+    width:23%;
+  }
+  nav h4 {
+    text-align:right;
+  }
+  nav>div {
+    clear:none;
+  }
+}
