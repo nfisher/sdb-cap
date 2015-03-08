@@ -58,8 +58,12 @@ footer>div>ul>li>a {
 h1 {
   font-size:2rem;
 }
-h1,h4 {
+h1 a,h4 {
   color:#000080;
+}
+nav h1 a {
+  margin-right:0;
+  padding-right:0;
 }
 a {
   color:#6666b2;
