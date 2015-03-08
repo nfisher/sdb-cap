@@ -3,7 +3,7 @@ permalink: /login/
 layout: default
 ---
 
-<img src="{{ site.baseurl }}/images/mine_6.jpg" class="u-max-full-width"/>
+<img src="{{ site.baseurl }}/images/mine_banner.jpg" class="u-max-full-width"/>
 
 <div class="row login">
   <div class="columns six offset-by-three">
