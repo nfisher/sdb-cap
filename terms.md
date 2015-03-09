@@ -1,4 +1,5 @@
 ---
+title: Terms and Conditions
 permalink: /terms/
 layout: default
 ---
