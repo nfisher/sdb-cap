@@ -19,7 +19,7 @@ website or using Our services available via it you agree that you have read, und
 terms and conditions and the Privacy Policy (each as amended from time to time). If you do not agree to these 
 terms and conditions, you must stop using this website immediately.
 
-###Your use of this website
+####Your use of this website
 
 You agree to use this website only for lawful purposes and in a way which does not infringe the rights of any 
 anyone else or restrict or inhibit anyone else's use and enjoyment of this website.
@@ -34,7 +34,7 @@ regarded as an offer, solicitation, invitation, advice or recommendation to buy 
 any other financial services or banking product. If you are unsure about whether a product is suitable you 
 should contact an independent financial adviser.
 
-###Privacy
+####Privacy
 
 You agree that any and all personal information you provide to Us via this website may be collected, stored, 
 processed and used in accordance with our current Privacy Policy. Intellectual property rights
@@ -45,7 +45,7 @@ this website or its content. If and to the extent that any such intellectual pro
 operation of law or otherwise, you agree to do any and all such acts and execute any and all such documents 
 as We may reasonably request in order to assign such intellectual property rights back to Us.
 
-###Our liability to you
+####Our liability to you
 
 We exclude all representations, warranties, conditions and terms express or implied by statute, common law 
 or otherwise to the fullest extent permitted by law. We accept no liability for any special, indirect, incidental, 
@@ -73,7 +73,7 @@ Nothing in these terms and conditions shall exclude or limit or restrict Our dut
 the Financial Services and Markets Act 2000, or any conduct of business rules which We are bound to comply 
 with.
 
-###About Us
+####About Us
 
 Sandown Bay Resource Capital Partners LLP is a limited liability partnership registered in England and Wales, 
 whose registered number is OC393640 and whose registered address is at 78 Pall Mall, London, SW1Y 5ES, UK. 
@@ -82,14 +82,14 @@ In these terms and conditions, references to Us apply also to companies in Our g
 Should you have any questions about these terms and conditions or wish to contact Us for any reason 
 whatsoever, please contact Us by e-mail at <info@sdb-cap.com>
 
-###Amendments to these Terms
+####Amendments to these Terms
 
 We may update or amend these terms and conditions from time to time to comply with law or to meet Our 
 changing business requirements without notice to you. Any updates or amendments will be posted on this 
 website. By continuing to use this website, you agree to be bound by the terms of these updates and 
 amendments. These terms and conditions were last updated on 5/3/2015.
 
-###Other important terms
+####Other important terms
 
 If any of these terms and conditions are found to be illegal, invalid or unenforceable by any court of competent 
 jurisdiction, the rest of these Terms shall remain in full force and effect.
