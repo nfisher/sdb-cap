@@ -21,13 +21,13 @@ Policy in its entirety, you must not use this website.
 This Privacy Policy was last updated on 5/3/2015. Please check back regularly to keep informed of updates to 
 this Privacy Policy.
 
-###The personal information We collect about you
+####The personal information We collect about you
 
 When you access and browse this website [(including when you submit information to Us through data entry 
 fields on this website),] We may collect such personal information from you as your name, your age and sex, 
 your date of birth, your postal address, and your phone, fax and e-mail details.
 
-###How We may store and use your information
+####How We may store and use your information
 
 We (or third party data processors acting on Our behalf) may collect, store and use your personal information 
 listed above to: (i) make this website available to you and to provide you with content which is tailored to your individual tastes; (ii) provide you with services that you request; (iii) provide you with information on specific 
@@ -55,7 +55,7 @@ information, feedback, questions or comments, shall be deemed to be non-confiden
 obligation of any kind with respect to such information and shall be free to reproduce, use, disclose and 
 distribute the information to others without limitation.
 
-###International transfers
+####International transfers
 
 We may transfer personal information that We collect from you to third party data processors located in 
 countries that are outside of the European Economic Area or to members of our group of companies in 
@@ -64,7 +64,7 @@ connection with the above purposes. Please be aware that countries which are out
 Economic Area may not offer the same level of data protection as the United Kingdom, although Our 
 collection, storage and use of your personal data will continue to be governed by this Privacy Policy.
 
-###Cookies
+####Cookies
 
 This website uses cookies to collect information about you. Cookies are small data files which are placed on 
 your computer by this website and which collect certain information to help Us monitor the way in which this 
@@ -73,7 +73,7 @@ products and services which are more relevant to your individual tastes. We do n
 collect personal information about you. You may change your website browser settings to reject cookies, 
 although please note that if you do this it may impair the functionality of this website. For further information about cookies, including how to refuse cookies, please visit www.allaboutcookies.org.
 
-###Security
+####Security
 
 We take reasonable precautions to prevent the loss, misuse or alteration of your personal information. Our 
 employees, contractors and agents may be given access to your personal information which We collect, but 
@@ -87,14 +87,14 @@ Whilst We take appropriate technical and organisational measures to safeguard th
 you provide to Us, no transmission over the Internet can ever be guaranteed to be totally secure and therefore 
 We cannot ensure or warrant the security of any personal information that you transfer over the Internet to Us.
 
-###Third party sites
+####Third party sites
 
 This website may contain links to other websites operated by third parties. Please note that this Privacy Policy 
 applies only to the personal information that We collect through this website and We cannot be responsible 
 for personal information that third parties may collect, store and use through their websites. You should 
 always read the privacy policy of each website you visit carefully.
 
-###Questions
+####Questions
 
 If you have any questions about how We collect, store and use personal information, or if you have any other 
 privacy-related questions, please contact Us by e-mail at <info@sdb-cap.com>
