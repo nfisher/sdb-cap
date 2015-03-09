@@ -13,3 +13,5 @@ github_username:  jekyll
 # Build settings
 markdown: kramdown
 exclude: [lib, bin, Gemfile, Gemfile.lock, spec, SpecRunner.html]
+sass:
+    style: :compressed
