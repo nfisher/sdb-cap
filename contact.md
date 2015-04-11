@@ -11,7 +11,7 @@ permalink: /contact/
     <h2>Contact</h2>
     <div class="vcard">
       <div class="adr">
-        <div class="org">Sandown Bay Resource Capital Partners LLP</div>
+        <div class="fn org">Sandown Bay Resource Capital Partners LLP</div>
         <div class="street-address">78 Pall Mall</div>
         <div class="locality">London</div>
         <div class="postal-code">SW1Y 5ES</div>
