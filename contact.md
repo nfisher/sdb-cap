@@ -12,9 +12,9 @@ permalink: /contact/
     <div class="vcard">
       <div class="adr">
         <div class="fn org">Sandown Bay Resource Capital Partners LLP</div>
-        <div class="street-address">78 Pall Mall</div>
+        <div class="street-address">14 Hanover Street, 3rd Floor</div>
         <div class="locality">London</div>
-        <div class="postal-code">SW1Y 5ES</div>
+        <div class="postal-code">W1S 1YH</div>
         <div class="country">United Kingdom</div>
       </div>
       <div class="tel">&#9990; +44 (0) 20 3287 9880</div>
