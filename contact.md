@@ -23,6 +23,6 @@ permalink: /contact/
   </div>
 
   <div class="columns seven">
-    <iframe width="100%" height="450" frameborder="0" style="border:0" src="https://www.google.com/maps/embed/v1/place?q=78%20Pall%20Mall%2C%20London%20SW1Y%205ES%2C%20United%20Kingdom&key=AIzaSyAwgvsNcWjbxaJWg_P7TeB8uxbxTaR_AB4"></iframe>
+    <iframe width="100%" height="450" frameborder="0" style="border:0" src="https://www.google.com/maps/embed/v1/place?q=14%20Hanover%20Street%2C%20London%20W1S%201YH%2C%20United%20Kingdom&key=AIzaSyAwgvsNcWjbxaJWg_P7TeB8uxbxTaR_AB4"></iframe>
   </div>
 </div>
